@@ -1,31 +1,23 @@
-h1 {
-            color: Black;
-            text-align: center;
-        }
+body
+{
+    color: Black;
+    text-align: center;
+}
 
-        p {
-            font-family: times new roman;
-            font-size: 90px;
-        }
+p {
+    font-family: times new roman;
+    font-size: 90px;
+}
 
-        center {
-            text-align: center;
-        }
+    center {
+    text-align: center;
+ }
 
-        button {
-            background: #1e90ff;
-            margin: 10px;
-            padding: 10px;
-            font-family: times new roman;
-            font-size: 20px;
-            color: black;
-        }
-.footer {
-   position: sticky;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: blue;
-   color: white;
-   text-align: center;
+button {
+    background: #1e90ff;
+    margin: 10px;
+    padding: 10px;
+    font-family: times new roman;
+    font-size: 20px;
+    color: black;
 }
